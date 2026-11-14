@@ -1,0 +1,14 @@
+BAR E PIZZARIA DOS GÊMEOS — IDENTIDADE GREGA
+
+Arquivos:
+- index.html: conteúdo e estrutura do site.
+- style.css: cores, layout, responsividade e identidade visual.
+
+Publicação:
+Mantenha index.html e style.css juntos na mesma pasta e envie ambos para a raiz da hospedagem.
+
+Identidade:
+Azul noite, azul imperial, dourado antigo, tipografia Cinzel e Manrope e emblema vetorial feito no próprio HTML. A representação dos gêmeos é uma ilustração estilizada em CSS, sem arquivo de logo separado.
+
+Conteúdo:
+Telefone, endereço e mapa preservados do HTML original. Itens fictícios do cardápio e depoimentos genéricos foram removidos. Consulte a equipe para cardápio e horários. Fotografias externas são ilustrativas e podem não representar o estabelecimento.
